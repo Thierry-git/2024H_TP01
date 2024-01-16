@@ -1,0 +1,3 @@
+# TODO : Analyser le message crypté de l'Empire, compter le nombre d'occurrences des voyelles "a", "e", "i", "o", "u" et "y", puis assembler les résultats en une coordonnée galactique.
+
+message = ...

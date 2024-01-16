@@ -1,0 +1,3 @@
+# TODO : Écrire un programme qui demande le pourcentage de charge actuel de la batterie de la Batmobile, calcule le temps restant en minutes en fonction de ce pourcentage, et affiche le résultat au format "XXhYYmin". Assurer la gestion des pourcentages valides et des messages d'erreur appropriés.
+
+niveau_charge = ...
