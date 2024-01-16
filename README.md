@@ -9,11 +9,12 @@
   - [04. Le Cryptogramme de l'Alliance Rebelle](#04-le-cryptogramme-de-lalliance-rebelle)
   - [05. Le Système Énergétique de Stark Industries](#05-le-système-énergétique-de-stark-industries)
   - [06. La Batmobile de Bruce Wayne](#06-la-batmobile-de-bruce-wayne)
+  - [Exécution des Tests Unitaires](#exécution-des-tests-unitaires)
   - [Remise du travail](#remise-du-travail)
   - [Barème](#barème)
   - [Annexe: Guide et normes de codage](#annexe-guide-et-normes-de-codage)
 
-:alarm_clock: Date de remise le Dimanche 11 février 23h59
+⏰ Date de remise le Dimanche 11 février 23h59
 
 ## Introduction
 Bienvenue dans le premier travail pratique de votre parcours d'apprentissage en programmation Python ! Ce TP est conçu pour vous guider à travers les concepts fondamentaux de la programmation. En explorant divers scénarios captivants allant de l'exploration intergalactique à la gestion d'une boutique de baguettes magiques, vous apprendrez à manipuler des variables, à comprendre différents types de données, à utiliser des opérateurs et à construire des expressions. Vous découvrirez également comment les chaînes de caractères fonctionnent en Python et comment les structures de contrôle telles que les instructions 'if' peuvent influencer le flux d'exécution de vos programmes. Chaque exercice est conçu pour renforcer votre compréhension et votre maîtrise des bases de la programmation, vous préparant ainsi à des défis plus complexes dans le futur. 
@@ -177,9 +178,13 @@ Dans l'univers de Gotham City, vous incarnez le légendaire Batman, et votre pr�
 | 142 | Entrez le pourcentage de charge actuel de la batterie de la Batmobile : 142 |
 | | Erreur : niveau de charge invalide. |
 
+## Exécution des Tests Unitaires
+
+Pour garantir la conformité de vos scripts aux exigences des exercices, exécutez le fichier `tests_tp1.py`. Ces tests unitaires vérifient que chaque exercice fonctionne correctement et produit les résultats attendus. Exécutez ce fichier dans votre environnement de développement pour tester vos scripts avant la soumission.
+
 ## Remise du travail
 
-Pour soumettre votre travail, créez un fichier zip nommé `LXX-YY-TP1.zip`, où `XX` est le numéro de votre section de laboratoire et `YY` le numéro de votre équipe (par exemple, `L02-04-TP1.zip` pour la section 02, équipe 04). Incluez dans ce zip vos scripts `exo1.py` à `exo6.py`. Assurez-vous que chaque script fonctionne correctement et déposez le fichier zip dans la boîte Moodle du TP correspondant à votre section.
+Pour soumettre votre travail, créez un fichier zip nommé `LXX-YY-TP1.zip`, où `XX` est le numéro de votre section de laboratoire et `YY` le numéro de votre équipe (par exemple, `L02-04-TP1.zip` pour la section 02, équipe 04). Incluez dans ce zip vos scripts `exo1.py` à `exo6.py`. Assurez-vous que chaque script fonctionne correctement et déposez le fichier zip dans la boîte Moodle du TP correspondant à votre section. Aussi, assurez-vous d'exécuter le fichier `tests_tp1.py` pour valider vos solutions avant de soumettre le fichier zip.
 
 ## Barème
 
@@ -192,6 +197,8 @@ Pour soumettre votre travail, créez un fichier zip nommé `LXX-YY-TP1.zip`, où
 | 5      | 3      |
 | 6      | 5      |
 | **Total**| **20**|
+
+## Bon succès ! 🚀
 
 ## Annexe: Guide et normes de codage
 - [Le plugin Pycharm Pylint](https://plugins.jetbrains.com/plugin/11084-pylint) qui analyse votre code et indique certaines erreurs. Vous avertis aussi si vous ne respectez pas certaines de normes de PEP8, le guide de codage officiel de Python.
