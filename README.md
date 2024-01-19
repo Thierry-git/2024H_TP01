@@ -44,12 +44,12 @@ Vous êtes un explorateur parcourant l'univers à la recherche de nouvelles déc
 
 **Exemple:**
 
-| Entrée |  Résultat  |
+| Sorties | Entrées  |
 |:-----|:--------|
-|Terre | Entrez le nom de la planete exploree: Terre|
-|01/01/3000 | Entrez la date de votre visite (JJ/MM/AAAA): 01/01/3000 |
-| Une planete bleue et verte abritant une multitude de formes de vie. | Decrivez la planete: Une planete bleue et verte abritant une multitude de formes de vie.|
-| | Votre exploration a ete ajoutee au Journal des Astres !<br>-------------------------------<br>Titre : Decouverte de Terre<br>Date : 01/01/3000<br>Description : Une planete bleue et verte abritant une multitude de formes de vie.|
+| Entrez le nom de la planete exploree:  | Terre|
+| Entrez la date de votre visite (JJ/MM/AAAA):  | 01/01/3000 |
+| Decrivez la planete:  | Une planete bleue et verte abritant une multitude de formes de vie.|
+| Votre exploration a ete ajoutee au Journal des Astres !<br>-------------------------------<br>Titre : Decouverte de Terre<br>Date : 01/01/3000<br>Description : Une planete bleue et verte abritant une multitude de formes de vie. | |
 
 ## 02. La Boutique de Baguettes Magiques d'Ollivander
 
@@ -62,19 +62,20 @@ Vous êtes apprenti chez Ollivander, le célèbre fabricant de baguettes magique
 - Affichez les quantités totales de chaque matériau requis.
 
 **Exemple :**
-| Entrée |  Résultat  |
+
+| Sorties | Entrées  |
 |:-----|:--------|
-| 15 |	Nombre de baguettes a fabriquer : 15 |
-| | Voici les materiaux requis pour la fabrication de 15 baguettes magiques:<br>- 45 piece(s) de bois<br>- 15 coeur(s) de creatures magiques<br>- 150 ml de vernis|
+| Nombre de baguettes a fabriquer : | 15 |
+| Voici les materiaux requis pour la fabrication de 15 baguettes magiques:<br>- 45 piece(s) de bois<br>- 15 coeur(s) de creatures magiques<br>- 150 ml de vernis | |
 
 ## 03. L'Ingénieur Romain
 
 Félicitations ! Vous avez été nommé l'unique ingénieur du camp romain aux abords du village d'Astérix et Obélix. Votre mission est de calculer la portée des catapultes pour le prochain "grand" assaut (le précédent ayant été un fiasco mémorable). Les catapultes, récemment rénovées après l'incident impliquant un sanglier volant et un centurion malchanceux, sont prêtes à l'emploi.  Vous devez maintenant écrire un script pour prédire la distance que chaque rocher lancé par les catapultes peut atteindre.
 
 **Consignes :**
-- Demandez au légionnaire de service (qui a l'air plutôt nerveux) de vous fournir la vitesse initiale et l'angle de lancement pour chaque catapulte.
+- Demandez au légionnaire de service (qui a l'air plutôt nerveux) de vous fournir la vitesse initiale et l'angle de lancement pour chaque catapulte. 
 - Appliquez vos compétences en mathématiques (et en prières aux dieux romains) pour calculer la distance que le projectile peut parcourir. Utilisez la formule de la portée d'un projectile : 
-$$ D = \frac{vitesse^2 \times \sin(2 \times angle)}{g} $$
+$$D = \frac{vitesse^2 \times \sin(2 \times angle)}{g}$$
 où g est l'accélération due à la gravité ($\ 9,81 m/s^2$).
 - Présentez vos résultats avec assurance (et un peu d'espoir) pour déterminer si le village gaulois est à portée (arrondies à deux décimales près).
 
@@ -84,11 +85,11 @@ où g est l'accélération due à la gravité ($\ 9,81 m/s^2$).
 
 **Exemple :**
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 22.5 | Entrez la vitesse initiale (en m/s) : 20.5 |
-| 30 | Entrez l'angle de lancement (en degres) : 30 |
-|   | La distance parcourue par le projectile est de 37.10 metres. |
+| Entrez la vitesse initiale (en m/s) :  | 20.5 |
+| Entrez l'angle de lancement (en degres) :  | 30 |
+| La distance parcourue par le projectile est de 37.10 metres.  |  |
 
 ## 04. Le Cryptogramme de l'Alliance Rebelle
 
@@ -104,10 +105,10 @@ Vous avez été chargé de déterminer ces coordonnées secrètes en comptant le
 
 **Exemple :**
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| "La force est avec vous, mais l'Empire est partout!" | Entrez le message de l'Empire : La force est avec vous, mais l'Empire est partout! |
-|   | Les coordonnees galactiques sont 4.6.2.3.2.0. |
+| Entrez le message de l'Empire :  | La force est avec vous, mais l'Empire est partout! |
+| Les coordonnees galactiques sont 4.6.2.3.2.0. |  |
 
 ## 05. Le Système Énergétique de Stark Industries
 
@@ -122,25 +123,25 @@ En tant qu'ingénieur chez Stark Industries, vous avez été chargé de dévelop
 
 **Exemples :**
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 0 | Entrez le niveau de charge actuel de la batterie : 0 | 
-| | [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]</br>0% |
+| Entrez le niveau de charge actuel de la batterie :  | 0 | 
+| [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]</br>0% |  |
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 12 | Entrez le niveau de charge actuel de la batterie : 12 | 
-|  | [❚&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]</br>12% |
+| Entrez le niveau de charge actuel de la batterie : | 12 | 
+| [❚&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]</br>12%  | |
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 68 | Entrez le niveau de charge actuel de la batterie : 68 | 
-|  | [❚❚❚❚❚❚❚&nbsp;&nbsp;&nbsp;]</br>68% |
+| Entrez le niveau de charge actuel de la batterie :  | 68 | 
+| [❚❚❚❚❚❚❚&nbsp;&nbsp;&nbsp;]</br>68% |  |
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 123 | Entrez le niveau de charge actuel de la batterie : 123 | 
-| | Erreur : niveau de charge invalide. |
+| Entrez le niveau de charge actuel de la batterie :  | 123 | 
+| Erreur : niveau de charge invalide. |  |
 
 ## 06. La Batmobile de Bruce Wayne
 
@@ -156,27 +157,27 @@ Dans l'univers de Gotham City, vous incarnez le légendaire Batman, et votre pr�
     - Si le pourcentage est de 5% à 0%, chaque pourcentage équivaut à 5 minutes.
 - Affichez le temps restant au format "XhYYmin", où X est le nombre d'heures et Y est le nombre de minutes.
 
-**Exemple :**
+**Exemples :**
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 100| Entrez le pourcentage de charge actuel de la batterie de la Batmobile : 100 |
-| | Temps restant : 2h45min |
+| Entrez le pourcentage de charge actuel de la batterie de la Batmobile : | 100 |
+| Temps restant : 2h45min |  |
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 42| Entrez le pourcentage de charge actuel de la batterie de la Batmobile : 42 |
-| | Temps restant : 1h39min |
+| Entrez le pourcentage de charge actuel de la batterie de la Batmobile :|  42 |
+| Temps restant : 1h39min |  |
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 1 | Entrez le pourcentage de charge actuel de la batterie de la Batmobile : 3 |
-| |Temps restant : 0h05min |
+| Entrez le pourcentage de charge actuel de la batterie de la Batmobile : |  1 |
+| Temps restant : 0h05min | |
 
-| Entrée |  Résultat  |
+| Sorties |  Entrées  |
 |:------|:-----------|
-| 142 | Entrez le pourcentage de charge actuel de la batterie de la Batmobile : 142 |
-| | Erreur : niveau de charge invalide. |
+| Entrez le pourcentage de charge actuel de la batterie de la Batmobile :  | 142 |
+| Erreur : niveau de charge invalide. | |
 
 ## Exécution des Tests Unitaires
 
@@ -197,8 +198,6 @@ Pour soumettre votre travail, créez un fichier zip nommé `LXX-YY-TP1.zip`, où
 | 5      | 3      |
 | 6      | 5      |
 | **Total**| **20**|
-
-## Bon succès ! 🚀
 
 ## Annexe: Guide et normes de codage
 - [Le plugin Pycharm Pylint](https://plugins.jetbrains.com/plugin/11084-pylint) qui analyse votre code et indique certaines erreurs. Vous avertis aussi si vous ne respectez pas certaines de normes de PEP8, le guide de codage officiel de Python.
