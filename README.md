@@ -150,7 +150,7 @@ Dans l'univers de Gotham City, vous incarnez le légendaire Batman, et votre pr�
 **Consignes :**
 
 - Demandez à l'utilisateur de saisir le pourcentage de charge actuel de la batterie de la Batmobile.
-- Vérifiez si le pourcentage est valide, c'est-à-dire s'il est compris entre 0% et 100%. Si ce n'est pas le cas, affichez un message d'erreur approprié et quittez le programme.
+- Vérifiez si le pourcentage est valide, c'est-à-dire s'il est compris entre 0% et 100%. Si ce n'est pas le cas, affichez un message d'erreur approprié.
 - Calculez le temps restant en minutes en fonction du pourcentage de charge, en utilisant les règles suivantes :
     - Si le pourcentage est de 100% à 51%, chaque pourcentage équivaut à 1 minute.
     - Si le pourcentage est de 50% à 6%, chaque pourcentage équivaut à 2 minutes.
