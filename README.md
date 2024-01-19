@@ -154,7 +154,8 @@ Dans l'univers de Gotham City, vous incarnez le légendaire Batman, et votre pr�
 - Calculez le temps restant en minutes en fonction du pourcentage de charge, en utilisant les règles suivantes :
     - Si le pourcentage est de 100% à 51%, chaque pourcentage équivaut à 1 minute.
     - Si le pourcentage est de 50% à 6%, chaque pourcentage équivaut à 2 minutes.
-    - Si le pourcentage est de 5% à 0%, chaque pourcentage équivaut à 5 minutes.
+    - Si le pourcentage est de 5% à 1%, chaque pourcentage équivaut à 5 minutes.
+    - Si le pourcentage est de 0%, la batterie de la Batmobile est vide.
 - Affichez le temps restant au format "XhYYmin", où X est le nombre d'heures et Y est le nombre de minutes.
 
 **Exemples :**
