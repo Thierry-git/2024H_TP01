@@ -7,10 +7,8 @@
     <list default="true" id="95a5400c-a9bc-40e5-bd73-573a9cea0b65" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +20,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/exo1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/exo2.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/exo3.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/exo4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/exo5.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/exo6.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,6 +45,7 @@
     "Python.exo3.executor": "Run",
     "Python.exo4.executor": "Run",
     "Python.exo5.executor": "Run",
+    "Python.exo6.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -98,7 +99,7 @@
       <workItem from="1705517205845" duration="937000" />
       <workItem from="1705620882565" duration="1952000" />
       <workItem from="1705946186437" duration="409000" />
-      <workItem from="1705947200290" duration="6552000" />
+      <workItem from="1705947200290" duration="10528000" />
     </task>
     <servers />
   </component>
@@ -107,8 +108,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2024H_TP01$exo4.coverage" NAME="exo4 Coverage Results" MODIFIED="1705956995084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/2024H_TP01$.coverage" NAME=" Coverage Results" MODIFIED="1705958029343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2024H_TP01$.coverage" NAME=" Coverage Results" MODIFIED="1705960419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2024H_TP01$exo5.coverage" NAME="exo5 Coverage Results" MODIFIED="1705957935459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2024H_TP01$exo6.coverage" NAME="exo6 Coverage Results" MODIFIED="1705961468679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2024H_TP01$exo3.coverage" NAME="exo3 Coverage Results" MODIFIED="1705954903286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
