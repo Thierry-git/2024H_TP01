@@ -20,4 +20,4 @@ else:
 
     battery_hours, battery_minutes = divmod(battery_time, 60)
 
-    print(f"Temps restant : {battery_hours}h" + str(battery_minutes).zfill(2))
+    print(f"Temps restant : {battery_hours}h" + str(battery_minutes).zfill(2) + "min")
