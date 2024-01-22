@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95a5400c-a9bc-40e5-bd73-573a9cea0b65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_tp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_tp1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/faneva/ecole/poly/charge/INF1007/2024H/2024H_TP01",
+    "last_opened_file_path": "/home/faneva/ecole/poly/charge/INF1007/2024H/2024H_TP01/tests_tp1.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,7 +44,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Python tests for tests_tp1.TestExercice2.test_exercice2_cinq_baguettes" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in tests_tp1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="2024H_TP01" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,13 +56,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests_tp1.TestExercice2.test_exercice2_cinq_baguettes&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests_tp1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for tests_tp1.TestExercice2.test_exercice2_cinq_baguettes" />
+        <item itemvalue="Python tests.Python tests in tests_tp1.py" />
       </list>
     </recent_temporary>
   </component>
@@ -86,6 +83,7 @@
       <updated>1705517204098</updated>
       <workItem from="1705517205845" duration="937000" />
       <workItem from="1705620882565" duration="1952000" />
+      <workItem from="1705946186437" duration="409000" />
     </task>
     <servers />
   </component>
